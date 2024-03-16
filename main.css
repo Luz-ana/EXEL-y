@@ -1,0 +1,661 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav_bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    position: sticky;
+
+}
+
+.nav_bar img {
+    height: 50px;
+    width: 150px;
+
+
+}
+
+.nav_bar .get button {
+
+    background-color: #f65925;
+    border: 2px solid #f65925;
+    border-radius: 30px 30px 30px 30px;
+    padding: 10px 20px;
+    color: white;
+}
+
+/* container start */
+.container h1 {
+    color: purple;
+    font-size: 60px;
+    padding-bottom: 10px;
+
+
+
+
+}
+
+.container {
+    align-items: center;
+    padding-left: 100px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.container .button {
+    display: flex;
+
+    text-align: center;
+    padding-left: 40%;
+    padding-top: 30px;
+    gap: 18px;
+
+}
+
+.container button {
+    padding: 10px;
+    border-radius: 30px 30px 30px 30px;
+    width: 150px;
+}
+
+
+/* .container .button .first
+{
+    /* padding-right: 20px;
+    padding-left: 50px; */
+/* border: 2px solid; */
+/* background-color: orange; */
+
+
+.first button {
+    border: 2px solid #f65925;
+    border-radius: 30px 30px 30px 30px;
+    padding: 10px 20px;
+    background-color: #f65925;
+
+    color: #fff;
+
+
+}
+
+/* body part start */
+.body {
+    display: flex;
+    position: absolute;
+    padding-top: 40px;
+    padding-left: 20px;
+    gap: 2%;
+
+
+}
+
+
+
+.box1 {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    width: 30%;
+    border-radius: 5%;
+    padding: 20px 30px 10px 10px;
+
+
+
+}
+
+.box1 h2 {
+    padding: 10px 70px 10px 5px;
+}
+
+.box1 p {
+    padding: 10px 5px 5px 10px;
+}
+
+.box1 .image {
+    display: flex;
+    padding: 10px 5px 5px 10px;
+}
+
+.box2 {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    width: 30%;
+    height: 90%;
+    border-radius: 5%;
+    padding: 20px 30px 10px 10px;
+
+
+}
+
+.box2 h2 {
+    padding: 10px 70px 10px 5px;
+}
+
+.box2 p {
+    padding: 10px 5px 5px 10px;
+}
+
+.box2 img {
+    display: flex;
+    padding: 10px 5px 5px 10px;
+}
+
+.pic {
+    position: absolute;
+    left: 70%;
+    top: 50%;
+}
+
+
+.body2 {
+    display: flex;
+    padding-top: 300px;
+    padding-left: 20px;
+    gap: 2%;
+
+}
+
+.box3 {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    width: 30%;
+    border-radius: 5%;
+    padding: 20px 30px 10px 10px;
+
+}
+
+.box3 h2 {
+    padding: 10px 70px 10px 5px;
+}
+
+.box4 {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    width: 30%;
+    height: 90%;
+    border-radius: 5%;
+    padding: 20px 20px 10px 10px;
+    
+
+}
+
+.box3 p {
+    padding: 10px 5px 5px 10px;
+}
+
+.box1 .image {
+    display: flex;
+    padding: 10px 5px 5px 10px;
+}
+
+.box4 {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    width: 30%;
+    height: 90%;
+    border-radius: 5%;
+    padding: 20px 30px 10px 10px;
+
+
+}
+
+.box4 h2 {
+    padding: 10px 70px 10px 5px;
+}
+
+.box4 p {
+    padding: 10px 5px 5px 10px;
+}
+
+.box4 img {
+    display: flex;
+    padding: 10px 5px 5px 10px;
+}
+
+.box3 .image {
+    display: flex;
+}
+
+
+
+
+
+/* body part  */
+
+/* dot start */
+.dot {
+    display: flex;
+    text-align: center;
+    font-size: 70px;
+    padding-top: 10%;
+    padding-left: 50%;
+    color: rgb(161, 31, 161);
+    gap: 1%;
+}
+
+.dot .o {
+    color: rgb(85, 31, 85);
+
+}
+
+/* dot end */
+
+.tech {
+    padding-top: 5%;
+    padding-left: 45%;
+
+}
+
+/* marqueeeeeeeee start */
+.marquee {
+    display: flex;
+    padding-top: 5%;
+    gap: 5%;
+
+}
+
+/* marqueeeee end */
+
+/* contain start */
+.contain {
+    top: 20%;
+    display: flex;
+}
+
+.contain .yak {
+    padding: 70px 70px 70px 50px;
+
+}
+
+.yak h1 {
+    padding-left: 20%;
+    color: purple;
+    font-size: xxx-large;
+}
+
+.yak p {
+    font-size: 18px;
+    padding-top: 5%;
+    padding-right: 20%;
+    padding-left: 20%;
+}
+
+/* contain end */
+.parent h1 {
+    font-size: xx-large;
+}
+
+.column .first {
+    height: 30%;
+    width: 90%;
+    border: black solid;
+    font-size: larger;
+    padding: 2%;
+
+}
+
+.column .second {
+    height: 30%;
+    width: 90%;
+    border: black solid;
+    font-size: larger;
+    padding: 2%;
+
+}
+
+.column .third {
+    height: 30%;
+    width: 90%;
+    border: black solid;
+    font-size: larger;
+    padding: 2%;
+
+}
+
+.column .fourth {
+
+    height: 30%;
+    width: 90%;
+    border: black solid;
+    font-size: larger;
+    padding: 2%;
+
+}
+
+.column1 .first {
+    height: 30%;
+    width: 90%;
+    border: black solid;
+    font-size: larger;
+    padding: 2%;
+
+}
+
+.column1 .second {
+    height: 30%;
+    width: 90%;
+    border: black solid;
+    font-size: larger;
+    padding: 2%;
+
+}
+
+.column1 .third {
+    height: 30%;
+    width: 90%;
+    border: black solid;
+    font-size: larger;
+    padding: 2%;
+}
+
+.parent .chart {
+    font-size: xxx-large;
+}
+
+.parent {
+    display: flex;
+    padding-top: 5%;
+    background-color: purple;
+    background-image: url(https://exely.com/local/templates/purpleprop/images/logos/logo-icon.svg);
+    background-repeat: no-repeat;
+
+}
+
+.column {
+
+    padding-left: 10%;
+    padding-right: 5%;
+    justify-content: space-between;
+}
+
+
+/* parent end */
+
+/* sucess start */
+.hotel {
+    padding-top: 10%;
+    padding-left: 40%;
+}
+
+.body1 h1 {
+
+    color: rgb(86, 21, 86);
+}
+
+.body1 .empower {
+
+    color: #f65925;
+}
+
+.body1 .image {
+    display: flex;
+    gap: 2%;
+    padding-left: 5%;
+    padding-top: 1%;
+}
+
+.inside {
+    padding-left: 5%;
+
+
+}
+
+.inside p {
+    padding-top: 3%;
+    padding-bottom: 2%;
+    padding-right: 60%;
+
+
+}
+
+.inside button {
+    padding: 5px;
+    border-radius:
+
+}
+
+.cont {
+    padding-top: 3%;
+    padding-left: 7%;
+}
+
+.image img {
+    display: flex;
+    padding-left: 5%;
+    top: 5%;
+    gap: 1%;
+}
+
+.join {
+    display: flex;
+
+}
+
+.body2 {
+    padding-top: 2%;
+    left: 50%;
+}
+
+
+.whole {
+    padding-top: 10%;
+    display: flex;
+}
+
+.whole .items h1 {
+    color: rgb(106, 17, 106);
+
+}
+
+.whole .items .care {
+    color: #f65925;
+
+}
+
+.items h1 {
+    padding-left: 20%;
+    padding-top: 10%;
+}
+
+.items .care {
+    padding-left: 20%;
+    padding-top: 2%;
+
+}
+
+.items p {
+    padding-left: 20%;
+    padding-top: 3%;
+    padding-right: 20%;
+    font-size: 20px;
+}
+
+/* suite section start*/
+.satoru {
+    background-color: purple;
+    height: 340px;
+    /* padding-left: 10%; */
+    padding-right: 60%;
+
+
+}
+
+
+.satoru button {
+    background-color: #f65925;
+    border-radius: 30px 30px 30px 30px;
+    padding: 2%;
+
+
+
+}
+
+.satoru img {
+    padding-left: 60%;
+    top: 440%;
+
+    padding-bottom: 90%;
+    position: absolute;
+}
+
+.satoru h1 {
+    padding-top: 10%;
+    padding-left: 15%;
+
+}
+
+.satoru p {
+    padding-left: 15%;
+    padding-top: 5%;
+    font-size: 20px;
+    padding-right: 2%;
+
+}
+
+.satoru .button {
+    padding-left: 15%;
+    padding-top: 5%;
+}
+
+
+
+
+/* suite section end */
+
+
+/* business section start */
+.icon {
+    display: flex;
+
+
+
+    text-align: center;
+    align-items: center;
+}
+
+.businesssetion h1 {
+    padding-left: 42%;
+    padding-bottom: 20px;
+}
+
+.icon img {
+    padding-bottom: 20px;
+}
+
+.icon p {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* business section end */
+
+/* experience start */
+.experience {
+
+    height: 340px;
+    /* padding-left: 10%; */
+    padding-right: 60%;
+
+
+}
+
+
+.experience button {
+    background-color: #f65925;
+    border-radius: 30px 30px 30px 30px;
+    padding: 2%;
+
+
+
+}
+
+.experience img {
+    padding-left: 60%;
+    top: 550%;
+
+    padding-bottom: 90%;
+    position: absolute;
+}
+
+.experience h1 {
+    padding-top: 10%;
+    padding-left: 15%;
+
+}
+
+.experience p {
+    padding-left: 15%;
+    padding-top: 5%;
+    font-size: 20px;
+    padding-right: 2%;
+
+}
+
+.experience .button {
+    padding-left: 15%;
+    padding-top: 5%;
+}
+
+
+
+
+
+/* experience end */
+
+/* stories start */
+.eve
+{
+    padding-top: 5%;
+}
+.above .flex 
+{
+    display: flex;
+}
+
+.flex .i2
+{
+    padding-top: 1px;
+    padding-left: 1%;
+    padding-bottom: 50%;
+
+}
+.flex .i1
+{
+    padding-top: 2%;
+}
+
+/* stories end */
+
+/* last part start */
+.last2
+{
+    display: flex;
+    background-color: rgb(100, 6, 100);
+    height: 150px;
+}
+.last2 .apps
+{
+    display: flex;
+    padding-left: 5%;
+    
+}
+.last2 ul 
+{
+    list-style: none;
+    display: flex;
+    
+
+}
+
+.last2 ul li
+{
+    padding: 5px 10px;
+    margin: 0px 5px;
+}
+.last2 .s1
+{
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+
+/* last end */

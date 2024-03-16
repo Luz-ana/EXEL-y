@@ -1,0 +1,319 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.nav_bar
+{
+    display: flex;
+    justify-content: space-between;
+    padding:  20px ;
+    position: sticky;
+
+}
+.nav_bar img
+{
+    height: 50px;
+    width: 150px;
+    
+    
+}
+
+.container h1
+{
+    color: purple;
+    font-size: 60px;
+    
+    
+
+}
+.container
+{
+    align-items: center;
+    padding-left: 600px;
+}
+/* book open */
+.book img
+{
+    width: 700px;
+    height: 400px;
+
+
+}
+
+
+.book 
+{
+    display: flex;
+    padding: 50px 10px 10px 30px;
+}
+.book p
+{
+    padding-bottom: 20px;
+}
+
+.block button
+{
+    padding:10px;
+    border-radius:15% ;
+    
+}
+.book .block
+{
+    padding-left: 70px;
+    padding-right: 100px;
+}
+
+/* book close */
+
+/* channel start */
+.channel img
+{
+    width: 700px;
+    height: 400px;
+}
+.channel
+{
+    display: flex;
+    padding: 30px 0px 30px 0px;
+    
+}
+.channel .image
+{
+    padding-left: 30px
+}
+ .channel .block
+ {
+    padding-left: 80px;
+    padding-right: 100px;
+ }
+.block .para
+{
+    padding-bottom: 20px;
+}
+
+/* channel end */
+
+/* website builder start*/
+.hotel img
+{
+    width: 700px;
+    height: 400px;
+
+
+}
+
+
+.hotel 
+{
+    display: flex;
+    padding: 50px 10px 10px 30px;
+}
+.hotel p
+{
+    padding-bottom: 20px;
+}
+
+.block button
+{
+    padding:10px;
+    border-radius:15% ;
+    
+}
+.hotel .block
+{
+    padding-left: 70px;
+    padding-right: 100px;
+}
+
+/* website builder end */
+
+/* pms start */
+.pms img
+{
+    width: 700px;
+    height: 400px;
+}
+.pms
+{
+    display: flex;
+    padding: 30px 0px 30px 0px;
+    
+}
+.pms .image
+{
+    padding-left: 30px
+}
+ .pms .block
+ {
+    padding-left: 80px;
+    padding-right: 100px;
+ }
+.block .para
+{
+    padding-bottom: 20px;
+}
+
+/* pms end */
+
+/* reputation start */
+.reputation img
+{
+    width: 700px;
+    height: 400px;
+
+
+}
+
+
+.reputation
+{
+    display: flex;
+    padding: 50px 10px 10px 30px;
+}
+.reputation p
+{
+    padding-bottom: 20px;
+}
+
+.block button
+{
+    padding:10px;
+    border-radius:15% ;
+    
+}
+.reputation .block
+{
+    padding-left: 70px;
+    padding-right: 100px;
+}
+
+
+/* reputation end */
+
+
+/* hotel website development start */
+.webdev img
+{
+    width: 700px;
+    height: 400px;
+}
+.webdev
+{
+    display: flex;
+    padding: 30px 0px 30px 0px;
+    
+}
+.webdev .image
+{
+    padding-left: 30px
+}
+ .webdev .block
+ {
+    padding-left: 80px;
+    padding-right: 100px;
+ }
+.block .para
+{
+    padding-bottom: 20px;
+}
+
+
+/* hotel website development end */
+
+/* price monitor start */
+.monitor img
+{
+    width: 700px;
+    height: 400px;
+
+
+}
+
+
+.monitor
+{
+    display: flex;
+    padding: 50px 10px 10px 30px;
+}
+.monitor p
+{
+    padding-bottom: 20px;
+}
+
+.block button
+{
+    padding:10px;
+    border-radius:15% ;
+    
+}
+.monitor .block
+{
+    padding-left: 70px;
+    padding-right: 100px;
+}
+
+
+
+/* price monitor end */
+
+/* price assist start */
+.price img
+{
+    width: 700px;
+    height: 400px;
+}
+.price
+{
+    display: flex;
+    padding: 30px 0px 30px 0px;
+    
+}
+.price .image
+{
+    padding-left: 30px
+}
+ .price .block
+ {
+    padding-left: 80px;
+    padding-right: 100px;
+ }
+.block .para
+{
+    padding-bottom: 20px;
+}
+
+
+
+
+/* price assist end */
+
+/* business section start */
+.icon
+{
+    display: flex;
+    
+
+
+    text-align: center;
+    align-items: center;
+}
+ .businesssetion h1
+ {
+    padding-left: 42%;
+    padding-bottom: 20px;
+ }
+ .icon img
+ {
+    padding-bottom: 20px;
+ }
+
+ .icon p
+ {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+ }
+/* business section end */
